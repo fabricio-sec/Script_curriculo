@@ -14,8 +14,8 @@ ste projeto é um script automatizado desenvolvido em **Python** para gerar um c
 
 1. **Clone o repositório:**
    bash:
-   git clone [https://github.com/fabricio-sec/script_curriculo.git](https://github.com/seu-usuario/nome-do-repo.git)
-   cd nome-do-repo
+   git clone https://github.com/fabricio-sec/Script_curriculo.git
+   cd Script_curriculo
 
 2. **Instale as dependências**
 bash:
